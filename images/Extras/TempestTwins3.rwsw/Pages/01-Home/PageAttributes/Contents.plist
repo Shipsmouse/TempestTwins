@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>Changed</key>
+				<true/>
+				<key>ColourStyles</key>
+				<dict/>
+				<key>CreditRapidWeaver</key>
+				<true/>
+				<key>CustomCopyrightUsed</key>
+				<false/>
+				<key>CustomSiteTitleUsed</key>
+				<false/>
+				<key>CustomSloganUsed</key>
+				<false/>
+				<key>DefaultLinkTarget</key>
+				<string>self</string>
+				<key>FilenameExtension</key>
+				<string>html</string>
+				<key>HasCustomThemeStyle</key>
+				<true/>
+				<key>ImageFormat</key>
+				<string>Original</string>
+				<key>ImageQuality</key>
+				<string>High</string>
+				<key>IndexFilename</key>
+				<string>index.html</string>
+				<key>MetaTags</key>
+				<array>
+					<dict>
+						<key>Content</key>
+						<string>Tempest Twins, Vampirate Fan Site</string>
+						<key>Name</key>
+						<string>title</string>
+					</dict>
+					<dict>
+						<key>Content</key>
+						<string>Vampirates, Connor Tempest, Grace Tempest, Tempest Twins, Demons of the Ocean, Dead Deep, Tide of Terror, Blood Captain, Justin Somper, Pirates</string>
+						<key>Name</key>
+						<string>keywords</string>
+					</dict>
+					<dict>
+						<key>Content</key>
+						<string>This website is dedicated to Connor and Grace Tempest, who are the Tempest Twins from Vampirates Demons of the Ocean, Dead Deep, Tide of Terror and the Blood Captain by Justin Somper.</string>
+						<key>Name</key>
+						<string>description</string>
+					</dict>
+					<dict>
+						<key>Content</key>
+						<string>Freya Tarttelin</string>
+						<key>Name</key>
+						<string>author</string>
+					</dict>
+					<dict>
+						<key>Content</key>
+						<string>MMylfIGZQ7MkK7Rbmcrl4mxdFmagQvlRl52UHFQ5R7U=</string>
+						<key>Name</key>
+						<string>verify-v1</string>
+					</dict>
+				</array>
+				<key>OutputFormat</key>
+				<string>Tidied</string>
+				<key>OutputXMLDeclaration</key>
+				<false/>
+				<key>SidebarEnabled</key>
+				<integer>0</integer>
+				<key>TextEncoding</key>
+				<string>utf-8</string>
+				<key>ThemeStyles</key>
+				<dict>
+					<key>Flancrest</key>
+					<array>
+						<string>Alignment.Left</string>
+						<string>Banners.Default</string>
+						<string>Sidebar.Left</string>
+						<string>Styles.Blue</string>
+					</array>
+					<key>Vampirates</key>
+					<array>
+						<string>Alignment.Centered</string>
+						<string>Banners.Default</string>
+						<string>Sidebar.Left</string>
+						<string>Styles.Blue</string>
+					</array>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page Attributes</string>
+</dict>
+</plist>

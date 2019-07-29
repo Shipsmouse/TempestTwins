@@ -1,0 +1,4 @@
+#container, #footer, .blog-archive-headings-wrapper, .blog-archive-entries-wrapper {
+	margin: 0px auto 10px; /* Right And Left Margin Widths To Auto */
+	text-align: left; /* Hack To Keep IE5 Windows Happy */
+}

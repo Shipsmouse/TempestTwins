@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>BrowserTitle</key>
+				<string>Who Am I ?</string>
+				<key>ID</key>
+				<string>page6</string>
+				<key>MostRecentlySelectedStyleName</key>
+				<string>Theme Default</string>
+				<key>PageTitle</key>
+				<string>Who Am I ?</string>
+				<key>PluginClassName</key>
+				<string>RWStyledPlugin</string>
+				<key>PluginMetadata</key>
+				<dict>
+					<key>Author</key>
+					<string>Realmac Software</string>
+					<key>Name</key>
+					<string>Styled Text</string>
+				</dict>
+				<key>PublishingManifest</key>
+				<dict>
+					<key>CreationDate</key>
+					<date>2011-06-06T11:46:30Z</date>
+					<key>DigestAlgorithm</key>
+					<string>MD5</string>
+					<key>DocumentGUID</key>
+					<string>C53516D6-B5C3-40EC-85C9-9B101D5FC5C9</string>
+					<key>PageDigests</key>
+					<dict>
+						<key>files/left.jpg</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							ipPQhhkZp9LptTbbfRyR
+							jg==
+							</data>
+							<key>Size</key>
+							<integer>6620</integer>
+						</dict>
+						<key>files/mouse.jpg</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							/DGj3GJQ26ba1zgfImoN
+							gQ==
+							</data>
+							<key>Size</key>
+							<integer>5239</integer>
+						</dict>
+						<key>files/paw.jpg</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							5O//bEO8mYr4XVX4DD/4
+							Hw==
+							</data>
+							<key>Size</key>
+							<integer>4896</integer>
+						</dict>
+						<key>files/ring.jpg</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							oFXwmd/w+WrlrpqRCQM3
+							3g==
+							</data>
+							<key>Size</key>
+							<integer>7204</integer>
+						</dict>
+						<key>files/ship.jpg</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							7j0fOivkGbD89H/ZGtMI
+							0A==
+							</data>
+							<key>Size</key>
+							<integer>7484</integer>
+						</dict>
+						<key>who.html</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							snRHmm1j6S8F6sylGAOk
+							DQ==
+							</data>
+							<key>Size</key>
+							<integer>8694</integer>
+						</dict>
+					</dict>
+					<key>PageID</key>
+					<string>page6</string>
+					<key>Version</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>ChildPages</string>
+				<string>Data</string>
+				<string>PageAttributes</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page</string>
+</dict>
+</plist>

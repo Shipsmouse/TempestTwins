@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>HomePage</key>
+				<string>01-Home</string>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>01-Home</string>
+				<string>02-Books</string>
+				<string>03-Web-Sites</string>
+				<string>04-News</string>
+				<string>05-Justin-Somper</string>
+				<string>06-Timeline</string>
+				<string>07-Characters</string>
+				<string>08-Your-Ideas</string>
+				<string>09-Pirates</string>
+				<string>10-Book-Reviews</string>
+				<string>11-Our-Crew</string>
+				<string>12-Where-Are-You</string>
+				<string>13-Blog</string>
+				<string>14-Who-Am-I-003F</string>
+				<string>15-Squeak</string>
+				<string>16-Draft</string>
+				<string>17-Twilight-Story-by-SPP</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Pages</string>
+</dict>
+</plist>

@@ -1,0 +1,19 @@
+#container {
+	background: repeat-y right top url(../../images/sidebar_bg.png) #ffffff;
+}
+
+#contentContainer {
+	float: left;
+}
+
+#contentContainer #content {
+	padding: 10px 30px 10px 10px;
+}
+
+#sidebarContainer {
+	float: right;
+}
+
+#pageHeader h1, #pageHeader h2 {
+	padding-left: 10px;
+}

@@ -1,0 +1,79 @@
+a:link, a:visited {
+	color: #D80000;
+}
+
+#banner {
+	background: url(../../images/Twins.jpg) left bottom no-repeat;
+}
+
+#banner #insert {
+    background: #000000;
+    background: url(../../images/VampiratesHeader.jpg) center no-repeat;
+}
+
+#pageHeader {
+	border-top-color: #ff0000;
+    display: none;
+}
+
+#navcontainer #current {
+	background: #ff0000;
+}
+
+#navcontainer #current:hover {
+	background: #ff0000;
+	color: #000000;
+}
+
+#navcontainer .currentAncestor {
+	background: #ff0000;
+	color: #ffffff;
+}
+
+#navcontainer a:hover {
+	background: #ff0000;
+    color: #000000;
+}
+
+#navcontainer ul ul #current{
+	background: #ff0000;
+}
+
+#navcontainer ul ul .currentAncestor {
+	background: #ff0000;
+}
+
+#navcontainer ul ul ul #current{
+	background: #ff0000;
+}
+
+#navcontainer ul ul ul .currentAncestor {
+	background: #ff0000;
+}
+
+#navcontainer ul ul  ul ul #current{
+	background: #ececec;
+	color: #ff0000;
+}
+
+#navcontainer ul ul ul ul .currentAncestor {
+	background: #ececec;
+	color: #ff0000;
+}
+
+blockquote {
+	background: #ff0000;
+}
+
+.blog-entry-title {
+	color: #d80000;
+   	font-size: 1.2em;
+}
+
+.album-title {
+	color: #d80000;
+}
+
+.movie-page-title {
+	color: #d80000;
+}

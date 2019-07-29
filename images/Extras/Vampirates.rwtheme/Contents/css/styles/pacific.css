@@ -1,0 +1,67 @@
+a:link, a:visited {
+	color: #7c4c55;
+}
+
+#banner {
+	background: url(../../images/pacific/header_bg.png) repeat-x;
+}
+
+#banner #insert {
+	background: url(../../images/pacific/pacific_header.png) no-repeat;
+}
+
+#pageHeader {
+	border-top-color: #744d55;
+}
+
+#navcontainer #current {
+	background: #573a41;
+	color: #ffffff;
+}
+
+#navcontainer #current:hover {
+	background: #573a40;
+	color: #ffffff;
+}
+
+#navcontainer .currentAncestor {
+	background: #573a41;
+	color: #ffffff;
+}
+
+#navcontainer a:hover {
+	background: #573a41;
+}
+
+#navcontainer ul ul #current{
+	background: #7a4a54;
+}
+#navcontainer ul ul .currentAncestor {
+	background: #7a4a54;
+}
+
+#navcontainer ul ul ul #current{
+	background: #a05e6d;
+}
+
+#navcontainer ul ul ul .currentAncestor {
+	background: #a05e6d;
+}
+
+#navcontainer ul ul  ul ul #current{
+	background: #ececec;
+	color: #b77786;
+}
+
+#navcontainer ul ul ul ul .currentAncestor {
+	background: #ececec;
+	color: #b77786;
+}
+
+blockquote {
+	background: #573940;
+}
+
+.blog-entry-title {
+	color: #362928;
+}
